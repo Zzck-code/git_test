@@ -1,0 +1,1 @@
+This is My fuckin' first git project
